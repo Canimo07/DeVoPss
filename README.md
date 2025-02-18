@@ -1,4 +1,5 @@
 # DeVoPss
+<<<<<<< HEAD
 O que é devops?
 É uma abordagem que visa integrar desenvolvimento (dev) e operações (ops) para melhorar a colaboração e a eficiência no ciclo de vida do software. Ele se baseia em princípios como automação, monitoramento contínuo e feedback rápido.
 
@@ -21,3 +22,5 @@ Ferramentas;
 4- Monitoramento e logging: PROMETHEUS, GRAFANA, ELK STACK.
 5- Orquestração e contêinerização: DOCKER.
 6- Infra como codico: Terraform.
+=======
+>>>>>>> 0023868c5cd71779171096f49c91d120753b0a9a
